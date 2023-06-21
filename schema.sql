@@ -1,7 +1,7 @@
-drop database if exists business_db;
-create database business_db;
+drop database if exists employeeInfo_db;
+create database employeeInfo_db;
 
-use business_db;
+use employeeInfo_db;
 
 create table departments (
     id int not null primary key,
