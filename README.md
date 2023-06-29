@@ -24,6 +24,7 @@
 
   ## Usage
   This project is used by opening the terminal and inputing 'node index.js' this will prompt the user to pick what they would like to do. choosing view employeees, view departments, or view roles will display the selected table, choosing add new department, add role, or add employee will allow user to answer a set of promts and add to the existing database.the user may also select to edit an employee role and change what an employee's role ids.
+  https://drive.google.com/file/d/1CTuPbmdJVHOptR0EssyeYE_3xNbYd-3a/view
 
   ## How to Contibute
   Anyone can contribute to this project as long as they follow the license guidelines
